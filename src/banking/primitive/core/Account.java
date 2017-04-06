@@ -1,3 +1,12 @@
+/*
+  File:	~/Lab4_CodeReview_tlorton1/src/banking/primitive/core/Account.java
+  Author: Ty Lorton
+  Date: April 5th, 2017
+  
+  Description: Account class that sets up methods for Savings.java
+  				and Checking.java
+*/
+
 package banking.primitive.core;
 
 public abstract class Account implements java.io.Serializable {
